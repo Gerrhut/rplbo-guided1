@@ -1,0 +1,18 @@
+public class GerrySunjayJunjung71200595 {
+    public static void main (String args[]){
+        int x = 10;
+        int y = 25;
+        int z = x+y;
+
+        System.out.println("Hasil Penjumlahan "
+                +"dari x+y = " + z);
+        System.out.println("Hasil AKar Kuadrat "
+                +"dari z = "+ Math.sqrt(z));
+        
+        String namadepan = "Antonius";
+        System.out.println("Nama Depan Saya Adalah = "+ namadepan);
+        System.out.println("Nama Lengkap Saya "
+                +"adalah = "+namadepan+"Sunjay Junjung");
+    
+    }
+}
